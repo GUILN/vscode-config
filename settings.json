@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "Night Owl Light",
+    "workbench.iconTheme": "material-icon-theme",
+    "window.zoomLevel": 1,
+    "go.toolsManagement.autoUpdate": true,
+    "explorer.compactFolders": false,
+    "gitlens.advanced.messages": {
+        "suppressGitMissingWarning": true
+    },
+    "git.ignoreMissingGitWarning": true,
+    "workbench.editorAssociations": {
+        "*.ipynb": "default"
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+}

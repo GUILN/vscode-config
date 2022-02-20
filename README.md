@@ -9,3 +9,7 @@ It also has convinience scripts to help you export your current configurations a
 - Run script `export-extensions.sh` in the `root` folder of this repo
 - You will have a file named `ext` that contanins installation commands to install your currently installed `vscode extensions`
 
+## Export current configuration 
+- Go to your `settings.json` 
+- Simply make a copy into this repo's `root` folder
+
