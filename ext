@@ -15,6 +15,7 @@ code --install-extension fisheva.eva-theme
 code --install-extension georgewfraser.fsharp-language-server
 code --install-extension golang.go
 code --install-extension GrapeCity.gc-excelviewer
+code --install-extension hashicorp.terraform
 code --install-extension hediet.vscode-drawio
 code --install-extension humao.rest-client
 code --install-extension Ionide.Ionide-fsharp
